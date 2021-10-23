@@ -30,3 +30,9 @@ SIMULATOR:
 - Donwload the simulator (https://github.com/udacity/CarND-Capstone/releases)
 - Then made the files executables. (chmod 777 sys_int.x86_64) 
 - Run the simulator from outside the container and from the Files GUI by doble -clicking on it.
+
+
+CHANGE VELOCITY:
+rosparam set waypoint_loader/velocity [val]
+rosparam get waypoint_loader/velocity
+
