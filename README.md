@@ -1,7 +1,7 @@
 # CarND-pj9_Capstone
 Udacity Self-Driving Car Engineer - Project9: Capstone (ROS)
 
-This is the project repo for the final project of the Udacity Self-Driving Car Nanodegree: Programming a Real Self-Driving Car.
+This is the project repo for the final project of the Udacity Self-Driving Car Nanodegree: system integration using ROS. Here are some outputs of the project:
 
 ![output1](./outputs/output1.gif)
 
